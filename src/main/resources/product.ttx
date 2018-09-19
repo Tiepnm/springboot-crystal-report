@@ -1,0 +1,5 @@
+id	Long		
+name	String	255	
+madeIn	String	12	
+created	Date		
+updated	Date		
